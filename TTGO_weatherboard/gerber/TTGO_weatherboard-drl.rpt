@@ -1,0 +1,27 @@
+Drill report for /home/ralf/Dokumente/Afu/Schaltpläne/TTGO_weatherboard/TTGO_weatherboard.kicad_pcb
+Created on Fr 08 Jan 2021 16:22:06 CET
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'TTGO_weatherboard-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0,40mm  0,016"  (18 holes)
+    T2  1,00mm  0,039"  (43 holes)
+    T3  1,10mm  0,043"  (8 holes)
+    T4  1,20mm  0,047"  (2 holes)
+
+    Total plated holes count 71
+
+
+Drill file 'TTGO_weatherboard-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  1,70mm  0,067"  (2 holes)
+    T2  3,20mm  0,126"  (4 holes)
+
+    Total unplated holes count 6
