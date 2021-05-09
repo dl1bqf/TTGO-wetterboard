@@ -5,4 +5,3 @@ implementiert ist das DHT11/22,BMP280 oder BME280, UV Sensor VELM6070,Blitzsenso
 Ein 128x 96 OLED Display dient zur Anzeige der Messwerte. 2 Tasten dienen der Menu Steuerung.
 Eine NF Buchse kann zur Ein /Ausgabe externe Geräte benutzt werden. 
 
-/home/ralf/Bilder/ttgo/IMG_20210124_193617.jpg
