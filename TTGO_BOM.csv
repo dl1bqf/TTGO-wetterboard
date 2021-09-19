@@ -21,5 +21,5 @@ ID,Bezeichner,Gehäuse,Stückzahl,Bezeichnung,Anbieter und Referenz
 20,BME 280,"Luftdruck,Temperatur,Luftfeuchtigkeit Modul. Achtung nur das Modul mit ",,,
 ,,"3,3 Volt Betriebsspannung benutzen. (I2C)",1,,China Bucht
 21,DHT 22,"Temperatur ,Luftfeuchte Modul",1,,China Bucht
-22,OLED 128*64,OLED Display Modul (I2C) . Achtung die Betriebspannung des Moduls ,,,
+22,OLED SSD1306,OLED Display Modul (I2C) . Achtung die Betriebspannung des Moduls ,,,
 ,,muss oben links das erste PIN sein,1,,China Bucht
